@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "HomeKitchen"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-HomeKitchen-16ceb1e8-4551-422d-b6cb-4d430eb8e2ac;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
